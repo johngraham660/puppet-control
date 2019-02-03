@@ -1,37 +1,37 @@
-
 forge "http://forge.puppetlabs.com"
 
-# ================================
-# Install the virtua autofs module
-# ================================
 mod 'autofs',
-  :git    => 'git@gitlab.virtua.vm:puppet/autofs.git',
-  :branch => 'development'
+  :git    => 'git@github.com:johngraham660/puppet-autofs.git',
+  :branch => 'production'
 
 mod 'ldapclient',
-  :git    => 'git@gitlab.virtua.vm:puppet/ldapclient.git',
-  :branch => 'development'
+  :git    => 'git@github.com:johngraham660/puppet-ldapclient.git',
+  :branch => 'production'
 
 mod 'mysql',
-  :git    => 'git@gitlab.virtua.vm:puppet/mysql.git',
-  :branch => 'development'
+  :git    => 'git@github.com:johngraham660/puppet-mysql.git',
+  :branch => 'production'
 
 mod 'ntp',
-  :git    => 'git@gitlab.virtua.vm:puppet/ntp.git',
-  :branch => 'development'
+  :git    => 'git@github.com:johngraham660/puppet-ntp.git',
+  :branch => 'production'
 
 mod 'pam',
-  :git    => 'git@gitlab.virtua.vm:puppet/pam.git',
-  :branch => 'development'
+  :git    => 'git@github.com:johngraham660/puppet-pam.git',
+  :branch => 'production'
 
 mod 'profiles',
-  :git    => 'git@gitlab.virtua.vm:puppet/profiles.git',
-  :branch => 'development'
+  :git    => 'git@github.com:johngraham660/puppet-profiles.git',
+  :branch => 'production'
 
 mod 'roles',
-  :git    => 'git@gitlab.virtua.vm:puppet/roles.git',
-  :branch => 'development'
-  
+  :git    => 'git@github.com:johngraham660/puppet-roles.git',
+  :branch => 'production'
+
 mod 'ssh',
-  :git    => 'git@gitlab.virtua.vm:puppet/ssh.git',
-  :branch => 'development'
+  :git    => 'git@github.com:johngraham660/puppet-ssh.git',
+  :branch => 'production'
+
+mod 'rsyslog',
+  :git    => 'git@github.com:johngraham660/puppet-rsyslog.git',
+  :branch => 'production'
