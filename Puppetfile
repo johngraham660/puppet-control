@@ -17,11 +17,11 @@ mod 'pam',
   :branch => 'development'
 
 mod 'profile',
-  :git    => 'git@github.com:johngraham660/puppet-profile.git',
+  :git    => 'git@github.com:johngraham660/puppet-profiles.git',
   :branch => 'development'
 
 mod 'role',
-  :git    => 'git@github.com:johngraham660/puppet-role.git',
+  :git    => 'git@github.com:johngraham660/puppet-roles.git',
   :branch => 'development'
 
 mod 'ssh',
