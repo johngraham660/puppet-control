@@ -16,11 +16,11 @@ mod 'pam',
   :git    => 'git@github.com:johngraham660/puppet-pam.git',
   :branch => 'development'
 
-mod 'profile',
+mod 'profiles',
   :git    => 'git@github.com:johngraham660/puppet-profiles.git',
   :branch => 'development'
 
-mod 'role',
+mod 'roles',
   :git    => 'git@github.com:johngraham660/puppet-roles.git',
   :branch => 'development'
 
