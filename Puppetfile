@@ -8,10 +8,6 @@ mod 'ldapclient',
   :git    => 'git@github.com:johngraham660/puppet-ldapclient.git',
   :branch => 'development'
 
-mod 'mysql',
-  :git    => 'git@github.com:johngraham660/puppet-mysql.git',
-  :branch => 'development'
-
 mod 'ntp',
   :git    => 'git@github.com:johngraham660/puppet-ntp.git',
   :branch => 'development'
@@ -20,12 +16,12 @@ mod 'pam',
   :git    => 'git@github.com:johngraham660/puppet-pam.git',
   :branch => 'development'
 
-mod 'profiles',
-  :git    => 'git@github.com:johngraham660/puppet-profiles.git',
+mod 'profile',
+  :git    => 'git@github.com:johngraham660/puppet-profile.git',
   :branch => 'development'
 
-mod 'roles',
-  :git    => 'git@github.com:johngraham660/puppet-roles.git',
+mod 'role',
+  :git    => 'git@github.com:johngraham660/puppet-role.git',
   :branch => 'development'
 
 mod 'ssh',
