@@ -2,36 +2,36 @@ forge "http://forge.puppetlabs.com"
 
 mod 'autofs',
   :git    => 'git@github.com:johngraham660/puppet-autofs.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'ldapclient',
   :git    => 'git@github.com:johngraham660/puppet-ldapclient.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'mysql',
   :git    => 'git@github.com:johngraham660/puppet-mysql.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'ntp',
   :git    => 'git@github.com:johngraham660/puppet-ntp.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'pam',
   :git    => 'git@github.com:johngraham660/puppet-pam.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'profiles',
   :git    => 'git@github.com:johngraham660/puppet-profiles.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'roles',
   :git    => 'git@github.com:johngraham660/puppet-roles.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'ssh',
   :git    => 'git@github.com:johngraham660/puppet-ssh.git',
-  :branch => 'production'
+  :branch => 'development'
 
 mod 'rsyslog',
   :git    => 'git@github.com:johngraham660/puppet-rsyslog.git',
-  :branch => 'production'
+  :branch => 'development'
